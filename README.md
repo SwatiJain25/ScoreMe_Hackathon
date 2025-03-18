@@ -2,6 +2,7 @@
 
 ## Overview
 This project is a web-based application built with Flask that extracts tables and account details from PDF documents and converts them into an Excel file. It allows users to upload a PDF file containing financial or transactional data, and it processes the extracted information into structured account details and transaction records.
+I have only done for test_3. We can similarly work for different pdf files.
 
 ## Features
 - Extracts text from PDF files using PyMuPDF (fitz).
@@ -67,12 +68,5 @@ Ensure you have the following installed:
 3. Click "Convert & Download."
 4. Extracted account details and transactions are saved in an Excel file.
 
-## Contributing
-Feel free to contribute by submitting issues or pull requests.
 
-## License
-This project is open-source and available under the MIT License.
-
-## Contact
-For any questions or suggestions, feel free to reach out!
 
